@@ -1,0 +1,5 @@
+오늘은 두 번째 연습이야.
+
+#git
+#github
+#practice
